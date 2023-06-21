@@ -14,7 +14,6 @@ import { CrearEstudiante } from './pages/CrearEstudiante';
 import { CrearEmpresa } from './pages/CrearEmpresa';
 import { CrearEncargado } from './pages/CrearEncargado';
 import ConsultarDatosFormulario from "./components/ConsultarDatosFormulario";
-// import { CrearArchivo } from './pages/CrearArchivo';
 import FileUploader from "./components/CrearArchivoFormulario";
 
 getAutenticacionToken()
